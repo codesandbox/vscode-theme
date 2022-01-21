@@ -1,0 +1,18 @@
+{
+  "name": "codesandbox-theme",
+  "description": "A CodeSandbox theme for Visual Studio Code.",
+  "version": "1.0.0",
+  "repository": "git@github.com:codesandbox/vscode-theme.git",
+  "contributes": {
+    "themes": [
+      {
+        "label": "CodeSandbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codesandbox-dark.json"
+      }
+    ]
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  }
+}

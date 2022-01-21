@@ -1,0 +1,108 @@
+{
+  "name": "CodeSandbox",
+  "type": "dark",
+  "semanticHighlighting": true,
+  "colors": {
+    "focusBorder": "#AD9CFF",
+    "background": "#151515",
+    "foreground": "#e5e5e5",
+    "input.background": "#0F0E0E",
+    "input.foreground": "#999",
+    "button.background": "#0971f1",
+    "sideBar.background": "#151515",
+    "sideBar.foreground": "#999",
+    "sideBarSectionHeader.background": "#151515",
+    "sideBarSectionHeader.foreground": "#e5e5e5",
+    "activityBar.background": "#151515",
+    "statusBar.background": "#151515",
+    "tab.activeBackground": "#151515",
+    "tab.activeForeground": "#e5e5e5",
+    "tab.inactiveBackground": "#151515",
+    "tab.inactiveForeground": "#999",
+    "tab.hoverBackground": "#E5E5E51A",
+    "tab.border": "#151515",
+    "editorGroupHeader.tabsBackground": "#151515",
+    "titleBar.activeBackground": "#151515",
+    "titleBar.inactiveBackground": "#151515",
+    "editor.background": "#151515"
+  },
+  "tokenColors": [
+    {
+      "name": "String",
+      "scope": ["string"],
+      "settings": {
+        "foreground": "#bfd084"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["punctuation"],
+      "settings": {
+        "foreground": "#86897a"
+      }
+    },
+    {
+      "name": "Keyword",
+      "scope": ["keyword"],
+      "settings": {
+        "foreground": "#a390ff"
+      }
+    },
+    {
+      "name": "Constant",
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#7ad9fb"
+      }
+    },
+    {
+      "name": "Type",
+      "scope": ["type"],
+      "settings": {
+        "foreground": "#7ad9fb"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": ["support"],
+      "settings": {
+        "foreground": "#a390ff"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": ["storage"],
+      "settings": {
+        "foreground": "#a390ff"
+      }
+    },
+    {
+      "name": "Meta",
+      "scope": ["meta"],
+      "settings": {
+        "foreground": "#cdf861"
+      }
+    },
+    {
+      "name": "Markup",
+      "scope": ["markup"],
+      "settings": {
+        "foreground": "#cdf861"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": ["invalid"],
+      "settings": {
+        "foreground": "#86897a"
+      }
+    },
+    {
+      "name": "Entity",
+      "scope": ["entity"],
+      "settings": {
+        "foreground": "#cdf861"
+      }
+    }
+  ]
+}
