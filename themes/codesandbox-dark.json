@@ -35,13 +35,6 @@
       }
     },
     {
-      "name": "Punctuation",
-      "scope": ["punctuation"],
-      "settings": {
-        "foreground": "#86897a"
-      }
-    },
-    {
       "name": "Keyword",
       "scope": ["keyword"],
       "settings": {
@@ -49,10 +42,31 @@
       }
     },
     {
+      "name": "Keyword Operator",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#b3e8b4"
+      }
+    },
+    {
       "name": "Constant",
       "scope": ["constant"],
       "settings": {
         "foreground": "#7ad9fb"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": ["variable.other"],
+      "settings": {
+        "foreground": "#e5e5e5"
+      }
+    },
+    {
+      "name": "Variable Parameter",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
@@ -64,7 +78,7 @@
     },
     {
       "name": "Support",
-      "scope": ["support"],
+      "scope": ["support.class"],
       "settings": {
         "foreground": "#a390ff"
       }
@@ -77,10 +91,24 @@
       }
     },
     {
-      "name": "Meta",
-      "scope": ["meta"],
+      "name": "Entity",
+      "scope": ["meta.definition entity.name"],
       "settings": {
         "foreground": "#cdf861"
+      }
+    },
+    {
+      "name": "Meta Parameter",
+      "scope": ["meta.parameters"],
+      "settings": {
+        "foreground": "#e5e5e5"
+      }
+    },
+    {
+      "name": "Type Annotation",
+      "scope": ["entity.name.type", "meta.type.annotation"],
+      "settings": {
+        "foreground": "#a390ff"
       }
     },
     {
@@ -98,10 +126,27 @@
       }
     },
     {
-      "name": "Entity",
-      "scope": ["entity"],
+      "name": "Punctuation",
+      "scope": ["punctuation"],
       "settings": {
-        "foreground": "#cdf861"
+        "foreground": "#86897a"
+      }
+    },
+    {
+      "name": "Punctuation String",
+      "scope": ["punctuation.definition.string"],
+      "settings": {
+        "foreground": "#bfd084"
+      }
+    },
+    {
+      "name": "Punctuation Definition",
+      "scope": [
+        "meta.parameter punctuation.definition",
+        "punctuation.definition.parameters"
+      ],
+      "settings": {
+        "foreground": "#e5e5e5"
       }
     }
   ]
