@@ -1,21 +1,30 @@
-# CodeSandbox theme
+<h1 align="center">CodeSandbox Theme</h1>
+<p align="center">An official CodeSandbox theme for Visual Studio Code.</p>
 
-## Development
+## Install
 
-### Install locally
+Install this syntax theme [from the Marketplace](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-theme).
 
-To use this extension locally, it must be copied to the VS Code Extensions folder on your machine. Use the shorthand command below to do that:
+## Recommendations
 
-```sh
-./sync.sh
+Bring your Visual Studio Code even closer to the look and feel of CodeSandbox with these suggestions for your `settings.json`:
+
+```json
+{
+  "editor.fontSize": 14,
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true
+}
 ```
 
-### Preview
+You can find the [Fira Code font](https://github.com/tonsky/FiraCode) on GitHub.
 
-1. Open the repository in Visual Studio Code.
-1. Click <kbd>F5</kbd> to switch to the "Debugger" section.
-1. Click on the "Play" button to run the theme in a separate extension window.
-1. In the newly opened VS Code window, press <kbd>CMD+SHIFT+P</kbd>, then type "Color Theme".
-1. Choose "CodeSandbox" from the themes list. If you don't see this option in the list, please make sure to [have installed the theme locally](#install-locally).
+## Extension
 
-Editing the theme files under `./themes` will update the running extension window automatically.
+While this theme brings the aesthetics of your editor to match that at CodeSandbox, you can enhance your development workflow as well with the live following, —all through our official Visual Studio Code extension.
+
+> Check out our [CodeSandbox Projects extension](https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects) to have the power of CodeSandbox right in your editor!
+
+## Contribute
+
+Found an issue? Would like to propose an improvement? Please follow our [Contribution guidelines](CONTRIBUTING.md) to make those changes happen. Thank you!
