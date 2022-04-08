@@ -1,8 +1,16 @@
 {
   "name": "codesandbox-theme",
-  "description": "A CodeSandbox theme for Visual Studio Code.",
+  "description": "A CodeSandbox theme for Visual Studio Code",
   "version": "1.0.0",
+  "publisher": "CodeSandbox-io",
   "repository": "git@github.com:codesandbox/vscode-theme.git",
+  "author": {
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io"
+  },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
@@ -14,5 +22,9 @@
   },
   "engines": {
     "vscode": "^1.22.0"
+  },
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
   }
 }
