@@ -262,9 +262,16 @@
       "name": "meta.type.annotation",
       "scope": [
         "meta.class meta.type.annotation",
-        "meta.class support.type.primitive"
+        "meta.class support.type.primitive",
+        "meta.interface support.type.primitive",
+        "meta.type.annotation support.type.primitive"
       ],
       "settings": { "foreground": "#A390FF" }
+    },
+    {
+      "name": "meta.type.annotation entity.name.type",
+      "scope": ["meta.type.annotation entity.name.type"],
+      "settings": { "foreground": "#CABEFF" }
     },
     {
       "name": "variable.object.property",
@@ -323,7 +330,7 @@
     },
     {
       "name": "entity.name.type.interface",
-      "scope": ["entity.name.type.interface"],
+      "scope": ["meta.interface entity.name.type.interface"],
       "settings": { "foreground": "#7AD9FB" }
     },
     {
