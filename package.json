@@ -8,6 +8,7 @@
     "name": "CodeSandbox",
     "url": "https://codesandbox.io"
   },
+  "icon": "./media/icon.png",
   "categories": [
     "Themes"
   ],
