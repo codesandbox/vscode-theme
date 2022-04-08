@@ -1,5 +1,7 @@
-<h1 align="center">CodeSandbox Theme</h1>
+<div align="center" ><img src="https://user-images.githubusercontent.com/1891339/162010428-a210edd1-c0b8-4f12-9809-a299ded19a41.png" width="120" />
+<h1 align="center"> CodeSandbox Theme</h1>
 <p align="center">An official CodeSandbox theme for Visual Studio Code.</p>
+ </div>
 
 ## Install
 
