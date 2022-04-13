@@ -1,7 +1,3 @@
 {
-  "packages": {
-    "vscode-extension": {
-      "release-type": "node"
-    }
-  }
+  "release-type": "node"
 }
