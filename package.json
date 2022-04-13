@@ -3,6 +3,9 @@
   "description": "A CodeSandbox theme for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "CodeSandbox-io",
+  "scripts": {
+    "release": "yes | vsce publish $BUMP --no-git-tag-version"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/odesandbox/vscode-theme"
@@ -30,5 +33,8 @@
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
+  },
+  "devDependencies": {
+    "vsce": "^2.7.0"
   }
 }
