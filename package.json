@@ -32,6 +32,13 @@
   "engines": {
     "vscode": "^1.17.0"
   },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "CodeSandbox",
+    "Sandbox",
+    "CSB"
+  ],
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
