@@ -1,8 +1,10 @@
 {
   "name": "codesandbox-theme",
+  "displayName": "CodeSandbox Theme",
   "description": "A CodeSandbox theme for Visual Studio Code",
   "version": "1.0.0",
   "publisher": "CodeSandbox-io",
+  "license": "Apache-2.0",
   "scripts": {
     "release": "yes | vsce publish $BUMP --no-git-tag-version"
   },
@@ -28,7 +30,7 @@
     ]
   },
   "engines": {
-    "vscode": "^1.22.0"
+    "vscode": "^1.17.0"
   },
   "galleryBanner": {
     "color": "#000000",
