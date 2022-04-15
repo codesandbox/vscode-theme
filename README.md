@@ -3,7 +3,7 @@
   <p align="center">An official CodeSandbox theme for Visual Studio Code.</p>
 </div>
 
-<img src="./media/preview.png?v=3" alt="Theme preview in Visual Studio Code" />
+<img src="./media/preview.png" alt="Theme preview in Visual Studio Code" />
 
 ## Install
 
