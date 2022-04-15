@@ -1,4 +1,4 @@
-name: ci
+name: release
 on:
   push:
     branches: [main]
@@ -18,12 +18,14 @@ jobs:
         if: ${{ steps.release.outputs.release_created }}
 
       - name: Configure Node.js
+        if: ${{ steps.release.outputs.release_created }}
         uses: actions/setup-node@v3
         with:
           node-version: lts/*
           cache: yarn
 
       - name: Install dependencies
+        if: ${{ steps.release.outputs.release_created }}
         run: yarn install --frozen-lockfile
 
       - name: Configure Git
