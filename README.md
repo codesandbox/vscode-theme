@@ -31,6 +31,6 @@ Did you know you can get the entire power of CodeSandbox right in your editor, n
 
 Found an issue? Would like to propose an improvement? Please follow our [Contribution guidelines](CONTRIBUTING.md) to make those changes happen. Thank you!
 
-[theme-install]: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-theme
+[theme-install]: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects-theme
 [fira-code-install]: https://github.com/tonsky/FiraCode
 [projects-install]: https://marketplace.visualstudio.com/items?itemName=CodeSandbox-io.codesandbox-projects
