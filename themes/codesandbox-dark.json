@@ -164,11 +164,6 @@
       "settings": { "foreground": "#7AD9FB" }
     },
     {
-      "name": "invalid",
-      "scope": ["invalid"],
-      "settings": { "foreground": "#86897A" }
-    },
-    {
       "name": "keyword",
       "scope": ["keyword"],
       "settings": { "foreground": "#A390FF" }
@@ -504,6 +499,11 @@
       "name": "meta.paragraph.markdown",
       "scope": ["meta.paragraph.markdown"],
       "settings": { "foreground": "#e5e5e5" }
+    },
+    {
+      "name": "text.html.markdown meta.attribute",
+      "scope": ["text.html.markdown meta.attribute"],
+      "settings": { "foreground": "#CABEFF" }
     },
     {
       "name": "entity.name.section",
