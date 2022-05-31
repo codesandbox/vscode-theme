@@ -1,12 +1,5 @@
 # Changelog
 
-### [1.0.1](https://github.com/codesandbox/vscode-theme/compare/codesandbox-projects-theme-v1.0.0...codesandbox-projects-theme-v1.0.1) (2022-04-20)
-
-
-### Bug Fixes
-
-* **markdown:** color deprecated html attributes ([#12](https://github.com/codesandbox/vscode-theme/issues/12)) ([e5999be](https://github.com/codesandbox/vscode-theme/commit/e5999be0abc2863e4cb6275fa4306c4733bdc408))
-
 ## 1.0.0 (2022-04-20)
 
 
