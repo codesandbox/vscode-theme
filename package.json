@@ -2,7 +2,7 @@
   "name": "codesandbox-projects-theme",
   "displayName": "CodeSandbox Theme",
   "description": "A CodeSandbox theme for Visual Studio Code",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "CodeSandbox-io",
   "license": "Apache-2.0",
   "scripts": {

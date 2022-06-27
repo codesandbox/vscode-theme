@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/codesandbox/vscode-theme/compare/codesandbox-projects-theme-v1.0.1...codesandbox-projects-theme-v1.0.2) (2022-06-27)
+
+
+### Bug Fixes
+
+* improve active tab visibility ([#16](https://github.com/codesandbox/vscode-theme/issues/16)) ([a9f4803](https://github.com/codesandbox/vscode-theme/commit/a9f4803350b56890cea99232b11b7184a921a78e))
+* use different colors for git decorators ([#15](https://github.com/codesandbox/vscode-theme/issues/15)) ([c227d09](https://github.com/codesandbox/vscode-theme/commit/c227d092e151373fee420c8178d9ae30aa2410cb))
+
 ### [1.0.1](https://github.com/codesandbox/vscode-theme/compare/codesandbox-projects-theme-v1.0.0...codesandbox-projects-theme-v1.0.1) (2022-04-20)
 
 
