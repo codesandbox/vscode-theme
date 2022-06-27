@@ -23,14 +23,14 @@
     "button.secondaryHoverBackground": "#373737",
 
     "activityBar.foreground": "#dedede",
-    "activityBar.background": "#151515",
+    "activityBar.background": "#000",
     "activityBar.inactiveForeground": "#999",
     "activityBarBadge.foreground": "#000",
     "activityBarBadge.background": "#edffa5",
-    "activityBar.border": "#151515",
+    "activityBar.border": "#000",
     "actibityBar.activeBackground": "#151515",
 
-    "sideBar.background": "#151515",
+    "sideBar.background": "#000",
     "sideBar.foreground": "#999",
     "sideBarSectionHeader.background": "#151515",
     "sideBarSectionHeader.border": "#00000000",
@@ -42,7 +42,7 @@
     "list.focusBackground": "#e5e5e51a",
     "list.highlightForeground": "#e5e5e5",
 
-    "statusBar.background": "#151515",
+    "statusBar.background": "#000",
     "statusBar.foreground": "#808080",
     "statusBar.border": "#00000000",
     "statusBar.debuggingBackground": "#563300",
@@ -54,15 +54,15 @@
 
     "tab.activeBackground": "#151515",
     "tab.activeForeground": "#e5e5e5",
-    "tab.inactiveBackground": "#151515",
+    "tab.inactiveBackground": "#000",
     "tab.inactiveForeground": "#999",
     "tab.hoverBackground": "#E5E5E51A",
     "tab.border": "#151515",
 
-    "titleBar.activeBackground": "#151515",
+    "titleBar.activeBackground": "#000",
     "titleBar.activeForeground": "#808080",
     "titleBar.border": "#00000000",
-    "titleBar.inactiveBackground": "#151515",
+    "titleBar.inactiveBackground": "#000",
 
     "menu.foreground": "#e5e5e5",
     "menu.background": "#373737",
@@ -77,11 +77,11 @@
     "editorLineNumber.foreground": "#858585",
     "editorLineNumber.activeForeground": "#c6c6c6",
 
-    "breadcrumb.background": "#00000000",
+    "breadcrumb.background": "#151515",
     "breadcrumb.foreground": "#999",
     "breadcrumb.focusForeground": "#e5e5e5",
     "editorGroupHeader.border": "#00000000",
-    "editorGroupHeader.tabsBackground": "#151515",
+    "editorGroupHeader.tabsBackground": "#000",
 
     "scrollbarSlider.background": "#79797966",
     "scrollbarSlider.hoverBackground": "#646464b3",
