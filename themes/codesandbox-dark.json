@@ -276,13 +276,8 @@
       "settings": { "foreground": "#ffffff" }
     },
     {
-      "name": "meta.field.declaration entity.name.function",
-      "scope": ["meta.field.declaration entity.name.function"],
-      "settings": { "foreground": "#CDF861" }
-    },
-    {
-      "name": "meta.definition.method entity.name.function",
-      "scope": ["meta.definition.method entity.name.function"],
+      "name": "entity.name.function",
+      "scope": ["entity.name.function"],
       "settings": { "foreground": "#CDF861" }
     },
     {
