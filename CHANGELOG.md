@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/codesandbox/vscode-theme/compare/codesandbox-projects-theme-v1.0.2...codesandbox-projects-theme-v1.1.0) (2022-08-03)
+
+
+### Features
+
+* use entity.name.function ([#18](https://github.com/codesandbox/vscode-theme/issues/18)) ([f3d358d](https://github.com/codesandbox/vscode-theme/commit/f3d358d3a64303a320cbb594ddd39bf81f401ca5))
+
 ## [1.0.2](https://github.com/codesandbox/vscode-theme/compare/codesandbox-projects-theme-v1.0.1...codesandbox-projects-theme-v1.0.2) (2022-06-27)
 
 
