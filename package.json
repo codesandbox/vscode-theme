@@ -26,6 +26,11 @@
         "label": "CodeSandbox",
         "uiTheme": "vs-dark",
         "path": "./themes/codesandbox-dark.json"
+      },
+      {
+        "label": "CodeSandbox Light",
+        "uiTheme": "vs",
+        "path": "./themes/codesandbox-light.json"
       }
     ]
   },
